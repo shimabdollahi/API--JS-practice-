@@ -1,0 +1,11 @@
+#table{
+    background-color: bisque;
+    font-size: 18px;
+}
+input{
+    font-size: 18px;
+}
+#select-coins{
+    height: 400px;
+    font-size: 18px;
+}
